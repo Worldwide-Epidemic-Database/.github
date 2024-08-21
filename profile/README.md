@@ -4,6 +4,8 @@
 
 ### Fell free to use it and share it
 
+### In the 'file-handling' repository you can find the scripts used to transform the data
+
 ## Countries and Diseases already mapped:
 
 ### Mexico:
