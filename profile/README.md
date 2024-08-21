@@ -4,11 +4,13 @@
 
 ### Fell free to use it and share it
 
+
 ## How to download files:
 
 ### Just access: http://weddatalake.s3-website.us-east-2.amazonaws.com/
 
 ### In the 'file-handling' repository you can find the scripts used to transform the data
+
 
 ## Countries and Diseases already mapped:
 
