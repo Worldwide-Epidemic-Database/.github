@@ -6,7 +6,7 @@
 
 ## How to download files:
 
-### just access: http://weddatalake.s3-website.us-east-2.amazonaws.com/
+### Just access: http://weddatalake.s3-website.us-east-2.amazonaws.com/
 
 ### In the 'file-handling' repository you can find the scripts used to transform the data
 
