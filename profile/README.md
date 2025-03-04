@@ -1,4 +1,4 @@
-# Worlwide-Epdemic-Database
+# Worldwide-Epdemic-Database
 
 ### Project created to handle public unstructured disease data and transform it into readable and analyzable data.
 
